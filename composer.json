@@ -1,0 +1,18 @@
+{
+    "name": "santore/scoring",
+    "description": "Kata for scoring a test",
+    "authors": [
+        {
+            "name": "Brett Santore",
+            "email": "brett.santore@gmail.com" 
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Santore\\" : "src\\"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    }
+}
